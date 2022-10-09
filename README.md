@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Karthik P M
+My name is Karthik and i am 
 currently persuing B.E/B.tech. in Computer Science from Amrita University,Amritapuri
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning make good PRs
