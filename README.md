@@ -4,8 +4,8 @@ currently persuing B.E/B.tech. in Computer Science from Amrita University,Amrita
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning make good PRs
 
-[![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM)](https://github.com/Karthik-PM/github-readme-stats)
-![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<!--[![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM)](https://github.com/Karthik-PM/github-readme-stats)-->
+![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM&show_icons=true)
 
 <!--
 **Karthik-PM/Karthik-PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
