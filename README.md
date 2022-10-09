@@ -1,5 +1,5 @@
 ### Hi there 👋
-   ![cat-nyan-cat](https://user-images.githubusercontent.com/72903849/194743320-84428532-05af-475b-880b-14b3e0a34420.gif)
+   ![de01514152ba65d](https://user-images.githubusercontent.com/72903849/194743416-d4d3f12b-5af0-428e-b8dd-0eca9f4a2f6d.gif)
 
 My name is Karthik and i am 
 currently persuing B.E/B.tech. in Computer Science from Amrita University,Amritapuri
