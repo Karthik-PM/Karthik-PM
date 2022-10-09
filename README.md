@@ -3,6 +3,7 @@ My name is Karthik P M
 currently persuing B.E/B.tech. in Computer Science from Amrita University,Amritapuri
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning make good PRs
+
 [![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM)](https://github.com/Karthik-PM/github-readme-stats)
 
 <!--
