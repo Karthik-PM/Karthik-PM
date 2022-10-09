@@ -1,5 +1,18 @@
 ### Hi there 👋
-   ![de01514152ba65d](https://user-images.githubusercontent.com/72903849/194743416-d4d3f12b-5af0-428e-b8dd-0eca9f4a2f6d.gif)
+![de01514152ba65d](https://user-images.githubusercontent.com/72903849/194743416-d4d3f12b-5af0-428e-b8dd-0eca9f4a2f6d.gif)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/karthikpm5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Karthik36906306">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div><br>
 
 My name is Karthik and i am 
 currently pursuing B.E/B.tech. in Computer Science from Amrita University,Amritapuri
