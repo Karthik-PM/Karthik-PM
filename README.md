@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Karthik P M, I am and Btech undergraduate in computer science and engineering from Amrita University, Amritapuri
+My name is Karthik P M, I am a Btech undergraduate in computer science and engineering from Amrita University, Amritapuri
 
 [![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM)](https://github.com/Karthik-PM/github-readme-stats)
 
