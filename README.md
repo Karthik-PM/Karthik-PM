@@ -1,6 +1,6 @@
-<div id = "name" align="center" >
+<!-- <div id = "name" align="center" >
   <h1> Hi there, I am Karthik P M 👋 <h1>
-<div>
+<div> -->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/karthikpm5/">
@@ -16,9 +16,9 @@
 <div>
 
 <!--[![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM)](https://github.com/Karthik-PM/github-readme-stats)-->
-![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM&show_icons=true&theme=onedark)
+<!-- ![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM&show_icons=true&theme=onedark)
 
-[![@karthik's Holopin board](https://holopin.io/api/user/board?user=karthik)](https://holopin.io/@karthik)
+[![@karthik's Holopin board](https://holopin.io/api/user/board?user=karthik)](https://holopin.io/@karthik) -->
 <!--
 **Karthik-PM/Karthik-PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
