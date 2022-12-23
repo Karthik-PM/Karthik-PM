@@ -15,8 +15,8 @@
 </div><br>
 <div>
 
-<!--[![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM)](https://github.com/Karthik-PM/github-readme-stats)-->
-<!-- ![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM&show_icons=true&theme=onedark)
+[![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM)](https://github.com/Karthik-PM/github-readme-stats)
+![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM&show_icons=true&theme=onedark)
 
 [![@karthik's Holopin board](https://holopin.io/api/user/board?user=karthik)](https://holopin.io/@karthik) -->
 <!--
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning make good PRs
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
