@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a> -->
 </div><br>
-<p>would you like to see the stars with me 🔭</p>
+<p>Hello there!</p>
 <!-- ![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM&show_icons=true&theme=onedark)
   
 [![@karthik's Holopin board](https://holopin.io/api/user/board?user=karthik)](https://holopin.io/@karthik)  -->
