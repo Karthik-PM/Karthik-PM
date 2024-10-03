@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a> -->
 </div><br>
-<p>Hello there!</p>
+<p>Hello there 👋!</p>
 <!-- ![Karthiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-PM&show_icons=true&theme=onedark)
   
-[![@karthik's Holopin board](https://holopin.io/api/user/board?user=karthik)](https://holopin.io/@karthik)  -->
+<!--[![@karthik's Holopin board](https://holopin.io/api/user/board?user=karthik)](https://holopin.io/@karthik)  
 <!--
 **Karthik-PM/Karthik-PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
